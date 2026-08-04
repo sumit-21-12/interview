@@ -22,6 +22,7 @@ a=a+1;
       <div>{count}</div>
       <div>{a}</div>
       <Button onClick={() => setcount(count + 1)}>Click me</Button>
+      <button> click me </button>
       
       
     </div>
